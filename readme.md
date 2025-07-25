@@ -77,7 +77,7 @@ Your final score was: 18/30
    python main.py
 
 # 🏁 Credits
-- Quiz logic inspired by beginner object oriented programming (OOP) Python practice projects.
+- Quiz logic inspired by object oriented programming (OOP) Python practice projects.
 
 - Formula 1 trivia sourced and verified from public F1 records and fan sources.
 
