@@ -51,6 +51,17 @@ Your current score is: 2/2 Quiz.
 
 ...
 
+Q.28: The 2020 F1 season was delayed due to the COVID-19 pandemic. (True/False)?: false
+That's wrong.
+The correct answer was: True.
+Your current score is: 16/28 Quiz.
+
+
+Q.29: Mick Schumacher is the son of Ralf Schumacher. (True/False)?: false
+You got it right!
+The correct answer was: False.
+Your current score is: 17/29 Quiz.
+
 Q.30: Spa-Francorchamps is located in Belgium. (True/False)?: true  
 You got it right!  
 The correct answer was: True.  
