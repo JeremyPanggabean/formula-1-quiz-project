@@ -2,7 +2,7 @@
 
 As someone who just recently got into the world of Formula 1, I decided to combine my interest in F1 with my journey in learning Python.
 
-This project is a **terminal-based True/False quiz** about Formula 1 — covering drivers, teams, race history, and general F1 knowledge. It's built using **Object-Oriented Programming (OOP)** in Python and is a great exercise for beginners learning about classes, functions, and modular programming.
+This project is a **terminal-based True/False quiz** about Formula 1 — covering drivers, teams, race history, and general F1 knowledge. It's built using **Object-Oriented Programming (OOP)** in Python and is a great learning about classes, atributes, method, and modular programming.
 
 ---
 
